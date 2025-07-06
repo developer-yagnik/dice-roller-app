@@ -20,7 +20,7 @@ A simple and interactive **Dice Roller** app built using **Flutter**. This proje
 ### Prerequisites
 
 - Flutter SDK installed
-- An emulator or physical device for testing
+- Simulator or physical device for testing
 
 ### Run Locally
 
