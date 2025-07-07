@@ -22,12 +22,6 @@ A simple and interactive **Dice Roller** app built using **Flutter**. This proje
 - Flutter SDK installed
 - Simulator or physical device for testing
 
-### Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/dice-roller-app.git
-   cd dice_roller_app
 ![1](https://github.com/user-attachments/assets/6e7d477d-3778-4d18-84c6-c1ee31f0d95e)
 
 ![2](https://github.com/user-attachments/assets/fc824323-39da-4da2-80b2-3cd0108527e5)
